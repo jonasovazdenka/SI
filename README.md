@@ -13,7 +13,9 @@
 
 ## Užitečné klávesové zkratky
 >**CTRL + S** *Uloží práci okamžitě.* 
+>
 >**CTRL + Z** *Vrátí kód o jednu změnu nazpět.
+>
 >**CTRL + Y** *Při použití* **CTRL + Y** *vrátí zase nazpět* **(před použitím CTRL + Z)**
 >
 >**CTRL + SHIFT + P** *Otevře nabídku příkazů*
