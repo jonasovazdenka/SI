@@ -1,6 +1,5 @@
 # MS VS Code
-Stažení [MS VS Code](https://visualstudio.microsoft.com/cs/free-developer-offers/)
-
+>Stažení [MS VS Code](https://visualstudio.microsoft.com/cs/free-developer-offers/)
 > MS VS Code je dobrý v tom, že využívá podporu pro **Git** a např. **kontextový našeptávač**.
 
 ## Užitečné Moduly
